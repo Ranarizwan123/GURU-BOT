@@ -1,14 +1,14 @@
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
-import { fileURLToPath } from 'url'
+important}  fileURLToPathurl'
 import fs from 'fs'
 import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+global.owner = [rizwan
+  ['03136648315 true],
+  ['03136648315', 'Ash', true], 
   [''] 
 ] //Number of owners
 
