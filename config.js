@@ -39,7 +39,8 @@ global.APIs = { // API Prefix
   bg: 'http://bochil.ddns.net',
   fgmods: 'https://api-fgmods.ddns.net'
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = { // APIKeGuru_4dd39215-e9f2-4e5d-9a27-e0585194d60e
+  y Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
